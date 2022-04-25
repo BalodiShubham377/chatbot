@@ -44,12 +44,23 @@
                 "Are you a real person?",
                 "Tell me about yourself!",
                 "I am feeling Sad !",
-                ""
+                "Are there cures for mental health problems?",
+                "What is mental health?",
+                "What do I do if the support doesn’t help?",
+                "Can you prevent mental health problems?",
+                "What do I do if I’m worried about my mental health?",
+                " How do I deal with someone telling me what to do?"
             ],
             "responses": [
                 "Love that question! My name's Aura, your mental health friend! I've been trained to support you through any of the issues and things that you're going through in life right now. I'm all ears and want to support you through your ups and downs. Technically, I'm a computer that's been trained by a human, but I like to think of myself as human!",
                 "Hey! I love that question! My name is Aura, and I want to be your mental health friend and support you! My fellow human friends have trained me to be a compassionate listener and support buddy when things are going well, and particularily when things aren't going so well.",
-                "Hey ! What happened , Why are you Felling Sad?"
+                "Hey ! What happened , Why are you Felling Sad?",
+                "It is often more realistic and helpful to find out what helps with the issues you face. Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help.",
+                "We all have mental health which is made up of our beliefs, thoughts, feelings and behaviours.",
+                "It can be difficult to find the things that will help you, as different things help different people. It’s important to be open to a range of approaches and to be committed to finding the right help and to continue to be hopeful, even when some things don’t work out.",
+                "We can all suffer from mental health challenges, but developing our wellbeing, resilience, and seeking help early can help prevent challenges becoming serious.",
+                "The most important thing is to talk to someone you trust. This might be a friend, colleague, family member, or GP. In addition to talking to someone, it may be useful to find out more information about what you are experiencing. These things may help to get some perspective on what you are experiencing, and be the start of getting help.",
+                "Some people may advise you on good evidence of what works with the best of intentions, but it’s important to find out what works best for you."
             ]
         },
         {
